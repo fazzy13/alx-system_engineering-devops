@@ -40,7 +40,7 @@ The following is a list of the contents of this repository:
 ## How to Use
 To use this repository, simply clone it to your local machine using the following command:
 
-~git clone https://github.com/<username>/alx-system_engineering-devops.git~
+git clone https://github.com/<username>/alx-system_engineering-devops.git
 
 Once you have cloned the repository, you can navigate to the directory containing the exercises you want to complete and run the relevant command(s) using your preferred terminal application.
 
