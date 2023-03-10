@@ -1,0 +1,5 @@
+#!/bin/bash
+
+DIR=$(pwd)
+ABSOLUTE_DIR=$(realpath "$DIR")
+echo "$ABSOLUTE_DIR"
