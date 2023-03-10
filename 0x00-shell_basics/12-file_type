@@ -1,2 +1,2 @@
 #!/bin/bash
-file /tmp/iamafil.c
+echo file  /tmp/iamafil.c
