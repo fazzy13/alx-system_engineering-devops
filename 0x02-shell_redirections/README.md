@@ -43,7 +43,7 @@ By completing the exercises in this repository, you will learn:
 ## Getting Started
 To use this repository, simply clone it to your local machine using the following command:
 
-## git clone https://github.com/fazzy13/0x02-shell_redirections.git
+`git clone https://github.com/fazzy13/0x02-shell_redirections.git`
 Once you have cloned the repository, you can navigate to the directory containing the exercise you want to complete and read the README file for instructions on how to complete the tasks.
 
 You can test your solutions by running the shell scripts in the tests directory.
