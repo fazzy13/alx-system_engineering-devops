@@ -40,4 +40,4 @@ Once you have cloned the repository, you can navigate to the directory containin
 You can test your solutions by running the shell scripts in the tests directory.
 
 ## Author
-This repository was created by [ifeanyi kalu](https://github.com/fazzy12).
+This repository was created by [ifeanyi kalu](https://github.com/fazzy12.
